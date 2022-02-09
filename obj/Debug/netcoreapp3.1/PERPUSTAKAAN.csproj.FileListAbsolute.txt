@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\netcoreapp3.1\PERPUSTAKAAN.exe
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\netcoreapp3.1\PERPUSTAKAAN.deps.json
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\netcoreapp3.1\PERPUSTAKAAN.runtimeconfig.json
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\netcoreapp3.1\PERPUSTAKAAN.runtimeconfig.dev.json
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\netcoreapp3.1\PERPUSTAKAAN.dll
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\bin\Debug\netcoreapp3.1\PERPUSTAKAAN.pdb
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\netcoreapp3.1\PERPUSTAKAAN.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\netcoreapp3.1\PERPUSTAKAAN.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\netcoreapp3.1\PERPUSTAKAAN.AssemblyInfo.cs
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\netcoreapp3.1\PERPUSTAKAAN.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\netcoreapp3.1\PERPUSTAKAAN.dll
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\netcoreapp3.1\PERPUSTAKAAN.pdb
+C:\Users\HP\source\repos\PERPUSTAKAAN\PERPUSTAKAAN\obj\Debug\netcoreapp3.1\PERPUSTAKAAN.genruntimeconfig.cache
