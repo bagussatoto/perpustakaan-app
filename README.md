@@ -2,7 +2,7 @@
  _**PERPUSTAKAAN**_ Merupakan Aplikasi untuk memudahkan dalam proses mendata dalam peminjaman dan pengembalian sebuah buku.
 
 ## Pembuat Aplikasi
-  - **Bagus Budi Satoto** 
+  - **Bagus Budi Satoto** , Merupakan Seorang **Programmer**
   - Program Study S1 Informatika
   - Falkultas Ilmu Komputer
   - Universitas Amikom Yogyakarta
